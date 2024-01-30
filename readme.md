@@ -1,6 +1,6 @@
 ## 📄 Supplement Material for SVARM-IQ Submission.
 This repository holds the code for the paper 
-_SVARM-IQ: Efficient Approximation of Any-order Shapley-Interactions through Stratification_ accepted at AISTATS 2024.
+_SVARM-IQ: Efficient Approximation of Any-order Shapley Interactions through Stratification_ accepted at AISTATS 2024.
 
 ### 🚀 Quickstart
 For a quick introduction, we refer to the `main.ipynb` notebook:
